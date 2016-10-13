@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>近点工作室</title>
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+    <!--页首部-->
+    <div class="header">
+        <!--最顶端菜单-->
+        <table class="top-menu">
+            <tr>
+                <td class="top-menu-margin"></td>
+                <td class="welcome-word">欢迎来到近点工作室主页！</td>
+                <td class="phone-number">联系电话：15800026549</td>
+                <td class="top-menu-space"></td>
+                <td class="top-menu-function division-line-r"><a href="#">设为首页</a></td>
+                <td class="top-menu-function division-line-r"><a href="#">收藏本站</a></td>
+                <td class="top-menu-function"><a href="#">联系我们</a></td>
+                <td class="top-menu-margin"></td>
+            </tr>
+
+        <!--导航菜单-->
+        <table class="navi-menu">
+            <tr>
+                <td class="navi-menu-margin"></td>
+                <td class="logo"><img src="../image/logo.png"></td>
+                <td class="studio-name">近点工作室</td>
+                <td class="navi-menu-space"></td>
+                <td class="navi-menu-function"><a href="#">首页</a></td>
+                <td class="navi-menu-function"><a href="#">项目展示</a></td>
+                <td class="navi-menu-function"><a href="#">关于我们</a></td>
+                <td class="navi-menu-function"><a href="#">团队介绍</a></td>
+                <td class="navi-menu-function"><a href="#">加入我们</a></td>
+                <td class="navi-menu-margin"></td>
+
+            </tr>
+        </table>
+            
+            <!--轮播图-->
+            <table class="slider">
+                <tr>
+                    <td class="slider-image"><img src="../image/slider_image_1.jpg"></td>
+                </tr>
+            </table>
+        </table>
+    </div>
+
+
+    <!--主体内容部分-->
+    <div class="content">
+        <!--业务范围-->
+        <table class="service">
+            <th colspan="6"><h2>核心业务</h2></th>
+            <tr>
+                <td class="service-margin"></td>
+                <td class="service-event" align="center" valign="middle"><img src="../image/webpage_develop.png"></td>
+                <td class="service-event" align="center" valign="middle"><img src="../image/APP_develop.png"></td>
+                <td class="service-event" align="center" valign="middle"><img src="../image/epibole_develop.png"></td>
+                <td class="service-event" align="center" valign="middle"><img src="../image/system_maintenance.png"></td>
+                <td class="service-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="service-margin"></td>
+                <td class="service-name">网页开发</td>
+                <td class="service-name">APP开发</td>
+                <td class="service-name">微信开发</td>
+                <td class="service-name">网络外包</td>
+                <td class="service-margin"></td>
+            </tr>
+        </table>
+
+        <!--团队介绍-->
+        <table class="team">
+            <th colspan="5"><h2>我们的团队</h2></th>
+
+            <!--成员照片-->
+            <tr>
+                <td class="team-margin"></td>
+                <td class="member-photo" align="center" valign="middle"><img src="../image/photo_icon.png"></td>
+                <td class="member-photo" align="center" valign="middle"><img src="../image/photo_icon.png"></td>
+                <td class="member-photo" align="center" valign="middle"><img src="../image/photo_icon.png"></td>
+                <td class="team-margin"></td>
+            </tr>
+
+            <!--成员姓名-->
+            <tr>
+                <td class="team-margin"></td>
+                <td class="member-name" align="center" valign="middle">成员1</td>
+                <td class="member-name" align="center" valign="middle">成员2</td>
+                <td class="member-name" align="center" valign="middle">成员3</td>
+                <td class="team-margin"></td>
+            </tr>
+
+            <!--成员职位-->
+            <tr>
+                <td class="team-margin"></td>
+                <td class="member-position" align="center" valign="middle">xxxxxx</td>
+                <td class="member-position" align="center" valign="middle">xxxxxx</td>
+                <td class="member-position" align="center" valign="middle">xxxxxx</td>
+                <td class="team-margin"></td>
+            </tr>
+
+            <!--成员照片-->
+            <tr>
+                <td class="team-margin"></td>
+                <td class="member-photo" align="center" valign="middle"><img src="../image/photo_icon.png"></td>
+                <td class="member-photo" align="center" valign="middle"><img src="../image/photo_icon.png"></td>
+                <td class="member-photo" align="center" valign="middle"><img src="../image/photo_icon.png"></td>
+                <td class="team-margin"></td>
+            </tr>
+
+            <!--成员姓名-->
+            <tr>
+                <td class="team-margin"></td>
+                <td class="member-name" align="center" valign="middle">成员1</td>
+                <td class="member-name" align="center" valign="middle">成员2</td>
+                <td class="member-name" align="center" valign="middle">成员3</td>
+                <td class="team-margin"></td>
+            </tr>
+
+            <!--成员职位-->
+            <tr>
+                <td class="team-margin"></td>
+                <td class="member-position" align="center" valign="middle">xxxxxx</td>
+                <td class="member-position" align="center" valign="middle">xxxxxx</td>
+                <td class="member-position" align="center" valign="middle">xxxxxx</td>
+                <td class="team-margin"></td>
+            </tr>
+        </table>
+
+        <table class="project-showing">
+            <!--项目展示-->
+            <th colspan="5"><h2>项目展示</h2></th>
+            <tr>
+                <td class="project-showing-margin"></td>
+                <td class="showing-image" align="center" valign="middle"><img src="../image/preview_image_1.jpg"></td>
+                <td class="showing-image" align="center" valign="middle"><img src="../image/preview_image_1.jpg"></td>
+                <td class="showing-image" align="center" valign="middle"><img src="../image/preview_image_1.jpg"></td>
+                <td class="project-showing-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="project-showing-margin"></td>
+                <td class="project-title" align="center" valign="middle">树莓派开发</td>
+                <td class="project-title" align="center" valign="middle">树莓派开发</td>
+                <td class="project-title" align="center" valign="middle">树莓派开发</td>
+                <td class="project-showing-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="project-showing-margin"></td>
+                <td class="project-introduce">针对树莓派开发板，定制功能进行开发</td>
+                <td class="project-introduce">针对树莓派开发板，定制功能进行开发</td>
+                <td class="project-introduce">针对树莓派开发板，定制功能进行开发</td>
+                <td class="project-showing-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="project-showing-margin"></td>
+                <td class="showing-image" align="center" valign="middle"><img src="../image/preview_image_1.jpg"></td>
+                <td class="showing-image" align="center" valign="middle"><img src="../image/preview_image_1.jpg"></td>
+                <td class="showing-image" align="center" valign="middle"><img src="../image/preview_image_1.jpg"></td>
+                <td class="project-showing-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="project-showing-margin"></td>
+                <td class="project-title" align="center" valign="middle">树莓派开发</td>
+                <td class="project-title" align="center" valign="middle">树莓派开发</td>
+                <td class="project-title" align="center" valign="middle">树莓派开发</td>
+                <td class="project-showing-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="project-showing-margin"></td>
+                <td class="project-introduce">针对树莓派开发板，定制功能进行开发</td>
+                <td class="project-introduce">针对树莓派开发板，定制功能进行开发</td>
+                <td class="project-introduce">针对树莓派开发板，定制功能进行开发</td>
+                <td class="project-showing-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="project-showing-margin"></td>
+                <td class="project-showing-margin"></td>
+                <td colspan="5" class="check-more"><button>查看更多>></button></td>
+                <td class="project-showing-margin"></td>
+                <td class="project-showing-margin"></td>
+            </tr>
+        </table>
+
+            <!--团队简介-->
+            <table class="aboutus">
+                <!--关于我们-->
+                <tr>
+                    <td class="aboutus-image" colspan="2"><img src="../image/aboutus.jpg"></td>
+                    <td colspan="3">
+                        <table class="aboutus-introduce">
+                            <tr>
+                                <td class="aboutus-introduce-margin"></td>
+                                <td><h2 style="color: #000000">关于我们</h2></td>
+                            </tr>
+
+                            <tr>
+                                <td class="aboutus-introduce-margin"></td>
+                                <td>近点工作室是由电子科大在校研究生为主，组成的创业团队</td>
+                            </tr>
+
+                            <tr>
+                                <td class="aboutus-introduce-margin"></td>
+                                <td class="check-more"><button>查看详情</button></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+    </div>
+
+
+    <!--页尾部-->
+    <div class="footer">
+        <table class="contactus">
+            <!--联系我们-->
+            <th colspan="4"><h2>联系我们</h2></th>
+            <tr>
+                <td class="contactus-margin"></td>
+                <td><h3>近点工作室</h3></td>
+                <td></td>
+                <td class="contactus-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="contactus-margin"></td>
+                <td>地址：成都市电子科技大学清水河校区立人楼</td>
+                <td>
+                    <form action="" method="post">
+                        <input type="text" name="uesrname" placeholder="姓名" style="border-bottom: 1px #cccccc solid;">
+                    </form>
+                </td>
+                <td class="contactus-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="contactus-margin"></td>
+                <td>邮编：101100</td>
+                <td>
+                    <form action="" method="post">
+                        <input type="text" name="phonenumber" placeholder="电话" style="border-bottom: 1px #cccccc solid;">
+                    </form>
+                </td>
+                <td class="contactus-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="contactus-margin"></td>
+                <td>电话：800-8308910</td>
+                <td>
+                    <form action="" method="post">
+                        <textarea placeholder="内容" rows="3" style="border-bottom: 1px #cccccc solid;overflow: hidden"></textarea>
+                    </form>
+                </td>
+                <td class="contactus-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="contactus-margin"></td>
+                <td>传真：800-8308910</td>
+                <td></td>
+                <td class="contactus-margin"></td>
+            </tr>
+
+            <tr>
+                <td class="contactus-margin"></td>
+                <td>邮箱：xxxxxxxxxxx</td>
+                <td>
+                    <form action="" method="post">
+                        <input type="submit" value="提交">
+                    </form>
+                </td>
+                <td class="contactus-margin"></td>
+            </tr>
+        </table>
+
+        <!--友情链接&版权声明-->
+        <table class="link">
+            <tr>
+                <td class="link-margin"></td>
+                <td class="link-url" style="border: none;">友情链接：</td>
+                <td class="link-url"><a href="http://www.baidu.com">百度网</a></td>
+                <td class="link-url"><a href="http://www.taobao.com">淘宝网</a></td>
+                <td class="link-url"><a href="http://www.163.com">网易网</a></td>
+                <td class="link-url" style="border: none;"><a href="http://www.qq.com">腾讯网</a></td>
+                <td class="link-margin"></td>
+            </tr>
+
+            <tr>
+                <td colspan="7" style="text-align: center;">近点工作室 版权所有 2016</td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>

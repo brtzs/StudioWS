@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>近点工作室</title>
+</head>
+<body>
+    <!--页首部-->
+    <div class="header">
+        <table>
+            <!--最顶端菜单-->
+            <tr></tr>
+
+            <!--导航菜单-->
+            <tr></tr>
+
+            <!--轮播图-->
+            <tr></tr>
+        </table>
+    </div>
+
+
+    <!--主体内容部分-->
+    <div class="content">
+        <table>
+            <!--项目展示-->
+            <tr></tr>
+
+            <!--业务范围-->
+            <tr></tr>
+
+            <!--团队简介-->
+            <tr></tr>
+        </table>
+    </div>
+
+
+    <!--页尾部-->
+    <div class="footer">
+        <table>
+            <!--联系我们-->
+            <tr></tr>
+
+            <!--友情链接&版权声明-->
+            <tr></tr>
+        </table>
+    </div>
+
+</body>
+</html>
