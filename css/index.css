@@ -11,9 +11,11 @@ a:hover{
     color: #888888;
 }
 
-/*主体内容部分*/
+/*
+    **********主体内容部分**********
+*/
 
-/*项目展示*/
+/* ********项目展示******** */
 .project-showing {
     width: 100%;
 }
@@ -39,8 +41,21 @@ a:hover{
 }
 
 /*项目预览轮播图*/
-.project-showing .project_preview{
+.project-showing .project_preview {
     width: 66%;
 }
 
-/*关于我们*/
+/* ********关于我们******** */
+.aboutus {
+    width: 100%;
+}
+
+/*预览图*/
+.aboutus .aboutus_image {
+
+}
+
+/*介绍tab切换栏*/
+.aboutus .aboutus_right_tab {
+
+}
