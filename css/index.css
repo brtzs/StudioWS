@@ -11,302 +11,36 @@ a:hover{
     color: #888888;
 }
 
-/*页首部*/
-
-/*最顶端菜单*/
-.top-menu{
-    width: 100%;
-    height: 16px;
-    border-bottom: 1px #cccccc solid;
-    color: #aaaaaa;
-    font-size: 0.75rem;
-}
-
-/*左右外边距*/
-.top-menu-margin{
-    width: 10%;
-}
-
-/*中间内容间隔*/
-.top-menu-space{
-    width:40%;
-}
-
-/*欢迎语*/
-.welcome-word{
-    width: 15%;
-}
-
-/*联系电话*/
-.phone-number{
-    width: 15%;
-}
-
-/*菜单项*/
-.top-menu-function{
-    width: 5%;
-    text-align: center;
-}
-
-/*右分隔线*/
-.division-line-r{
-    border-right: 1px #cccccc solid;
-}
-
-/*导航菜单*/
-.navi-menu{
-    width: 100%;
-}
-
-/*左右外边距*/
-.navi-menu-margin{
-    width: 15%;
-}
-
-/*logo图片*/
-.logo{
-    width: 5%;
-}
-
-.logo img{
-    width: 75%;
-}
-
-/*工作室名称*/
-.studio-name{
-    width: 15%;
-    font-size: 2em;
-    font-family: 幼圆;
-    text-align: left;
-}
-
-/*中间内容间隔*/
-.navi-menu-space{
-    width: 20%;
-}
-
-/*菜单项*/
-.navi-menu-function{
-    width: 6%;
-    text-align: center;
-    font-family: 黑体;
-    color: #aaaaaa;
-}
-
-/*轮播图*/
-.slider{
-    width: 100%;
-}
-
-.slider-image img{
-    width: 100%;
-}
-
 /*主体内容部分*/
 
-/*业务范围*/
-.service{
+/*项目展示*/
+.project-showing {
     width: 100%;
-    min-height: 96px;
-    border-top: 1px #cccccc solid;
-    border-bottom: 1px #cccccc solid;
 }
 
-/*章节标题*/
-.service th{
-    font-family: 黑体;
+/*模块标题*/
+.project-showing th {
+    text-align: center;
 }
 
 /*左右外边距*/
-.service-margin{
-    width: 20%;
-}
-
-/*图标*/
-.service-event img{
-    margin: 8px auto;
-    padding: 4px;
-    align-self: center;
+.project-showing .project_exhibition_margin {
     width: 15%;
 }
 
-/*项目名称*/
-.service-name{
-    min-height: 48px;
-    text-align: center;
-    font-weight: 700;
+/*“上一个”箭头*/
+.project-showing .previous_arrow {
+    width: 2%;
 }
 
-/*团队介绍*/
-.team{
-    width: 100%;
-    margin: 16px auto;
-    color: #ffffff;
-    background-image: url(../image/team_background.jpg);
+/*“下一个”箭头*/
+.project-showing .next_arrow {
+    width: 2%;
 }
 
-.team th{
-    font-family: 黑体;
-}
-
-/*左右外边距*/
-.team-margin{
-    width: 20%;
-}
-
-/*成员照片*/
-.member-photo{
-    width: 20%;
-}
-
-.member-photo img{
-    width: 50%;
-}
-
-/*成员姓名*/
-.member-name{
-    min-height: 32px;
-    font-weight: 700;
-}
-
-/*成员职位*/
-.member-position{
-    min-height: 32px;
-}
-
-/*项目展示*/
-.project-showing{
-    width: 100%;
-}
-
-/*章节标题*/
-.project-showing th{
-    height:48px;
-    text-align: center;
-    font-family: 黑体;
-}
-
-/*左右外边距*/
-.project-showing-margin{
-    width: 20%;
-}
-
-/*项目预览图*/
-.showing-image{
-    padding: 4px;
-    width: 20%;
-}
-
-.showing-image img{
-    width: 80%;
-}
-
-/*项目标题*/
-.project-title{
-    width: 20%;
-    font-weight: 700;
-    text-align: center;
-}
-
-/*项目概述*/
-.project-introduce{
-    width: 20%;
-    font-size: 0.75rem;
-    text-align: center;
-}
-
-/*查看更多按钮*/
-.check-more{
-    min-height: 72px;
-}
-
-.check-more button{
-    width: 35%;
-    height: 36px;
-    margin: auto;
-    color: #cccccc;
-    border: 1px #cccccc solid;
-    background: rgba(0, 0, 0, 0);
+/*项目预览轮播图*/
+.project-showing .project_preview{
+    width: 66%;
 }
 
 /*关于我们*/
-.aboutus{
-    margin-top: 16px;
-}
-
-/*配图*/
-.aboutus-image img{
-    width: 100%;
-}
-
-/*概述文字*/
-.aboutus-introduce{
-    color: #aaaaaa;
-}
-
-.aboutus-introduce td{
-    min-width: 192px;
-}
-
-/*左右内边距*/
-.aboutus-introduce-margin{
-    width: 25%;
-}
-
-/*页尾*/
-.footer{
-    width: 100%;
-    background-image: url(../image/contact_us.jpg);
-}
-
-/*联系我们*/
-.contactus{
-    width: 100%;
-}
-
-/*章节标题*/
-.contactus th{
-    font-family: 黑体;
-}
-
-/*左右外边距*/
-.contactus-margin{
-    width: 20%;
-}
-
-/*输入框*/
-.contactus td input, .contactus td textarea{
-    width: 100%;
-    min-height: 24px;
-    background: rgba(0, 0, 0, 0);
-    border: none
-}
-
-/*提交按钮*/
-.contactus td input[type=submit]{
-    width: 100%;
-    min-height: 32px;
-    background: rgba(0, 0, 0, 0.25);
-    color: #ffffff;
-}
-
-/*友情链接*/
-.link{
-    margin: 32px auto;
-    width: 100%;
-    text-align: center;
-}
-
-.link-margin{
-    width: 35%;
-}
-
-.link-url{
-    border-right: 1px #000000 solid;
-}
-
-/*版权声明*/
-.copyright{
-    height: 32px;
-    text-align: center;
-}
